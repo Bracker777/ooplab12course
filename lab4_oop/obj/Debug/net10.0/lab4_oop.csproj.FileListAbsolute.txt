@@ -1,0 +1,14 @@
+C:\Users\Recor\source\repos\lab4_oop\bin\Debug\net10.0\lab4_oop.exe
+C:\Users\Recor\source\repos\lab4_oop\bin\Debug\net10.0\lab4_oop.deps.json
+C:\Users\Recor\source\repos\lab4_oop\bin\Debug\net10.0\lab4_oop.runtimeconfig.json
+C:\Users\Recor\source\repos\lab4_oop\bin\Debug\net10.0\lab4_oop.dll
+C:\Users\Recor\source\repos\lab4_oop\bin\Debug\net10.0\lab4_oop.pdb
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.AssemblyInfoInputs.cache
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.AssemblyInfo.cs
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.csproj.CoreCompileInputs.cache
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.dll
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\refint\lab4_oop.dll
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.pdb
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\lab4_oop.genruntimeconfig.cache
+C:\Users\Recor\source\repos\lab4_oop\obj\Debug\net10.0\ref\lab4_oop.dll
