@@ -1,0 +1,507 @@
+{
+  "lab5_oop.dll": {
+    "C:\\Users\\Recor\\source\\repos\\lab5_oop\\lab5_oop\\BLL.cs": {
+      "BLL.BusinessException": {
+        "System.Void BLL.BusinessException::.ctor(System.String)": {
+          "Lines": {
+            "10": 15,
+            "11": 15,
+            "12": 15
+          },
+          "Branches": []
+        }
+      },
+      "BLL.Student": {
+        "System.String BLL.Student::get_Surname()": {
+          "Lines": {
+            "17": 40
+          },
+          "Branches": []
+        },
+        "System.Int32 BLL.Student::get_Course()": {
+          "Lines": {
+            "18": 47
+          },
+          "Branches": []
+        },
+        "System.String BLL.Student::get_StudentCard()": {
+          "Lines": {
+            "19": 44
+          },
+          "Branches": []
+        },
+        "System.Double BLL.Student::get_AverageGrade()": {
+          "Lines": {
+            "20": 37
+          },
+          "Branches": []
+        },
+        "System.String BLL.Student::get_Country()": {
+          "Lines": {
+            "21": 41
+          },
+          "Branches": []
+        },
+        "System.String BLL.Student::get_RecordBook()": {
+          "Lines": {
+            "22": 34
+          },
+          "Branches": []
+        },
+        "System.Boolean BLL.Student::get_IsExpelled()": {
+          "Lines": {
+            "23": 35
+          },
+          "Branches": []
+        },
+        "System.String BLL.Student::PlayChess()": {
+          "Lines": {
+            "26": 1
+          },
+          "Branches": []
+        }
+      },
+      "BLL.Employee": {
+        "System.String BLL.Employee::get_Surname()": {
+          "Lines": {
+            "37": 2
+          },
+          "Branches": []
+        },
+        "System.String BLL.Employee::CookBurger(System.Collections.Generic.List`1<System.String>)": {
+          "Lines": {
+            "43": 4,
+            "44": 4,
+            "45": 1,
+            "46": 1,
+            "49": 3,
+            "50": 1,
+            "51": 1,
+            "54": 2,
+            "55": 2
+          },
+          "Branches": [
+            {
+              "Line": 44,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 44,
+              "Offset": 12,
+              "EndOffset": 26,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 49,
+              "Offset": 55,
+              "EndOffset": 57,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 49,
+              "Offset": 55,
+              "EndOffset": 69,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Void BLL.Employee::.ctor(System.String)": {
+          "Lines": {
+            "32": 4,
+            "33": 4,
+            "34": 4,
+            "35": 4
+          },
+          "Branches": []
+        }
+      },
+      "BLL.McdonaldsWorker": {
+        "System.String BLL.McdonaldsWorker::get_Title()": {
+          "Lines": {
+            "64": 1
+          },
+          "Branches": []
+        },
+        "System.Void BLL.McdonaldsWorker::.ctor(System.String)": {
+          "Lines": {
+            "60": 2,
+            "61": 2,
+            "62": 2
+          },
+          "Branches": []
+        }
+      },
+      "BLL.Manager": {
+        "System.String BLL.Manager::get_Title()": {
+          "Lines": {
+            "73": 1
+          },
+          "Branches": []
+        },
+        "System.Void BLL.Manager::.ctor(System.String)": {
+          "Lines": {
+            "69": 2,
+            "70": 2,
+            "71": 2
+          },
+          "Branches": []
+        }
+      },
+      "BLL.StudentService": {
+        "System.Collections.Generic.List`1<BLL.Student> BLL.StudentService::GetAll()": {
+          "Lines": {
+            "89": 1
+          },
+          "Branches": []
+        },
+        "System.Void BLL.StudentService::Add(BLL.Student)": {
+          "Lines": {
+            "92": 11,
+            "93": 11,
+            "95": 3,
+            "96": 4,
+            "97": 1,
+            "98": 1,
+            "101": 2,
+            "102": 2,
+            "103": 2
+          },
+          "Branches": [
+            {
+              "Line": 96,
+              "Offset": 58,
+              "EndOffset": 60,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 96,
+              "Offset": 58,
+              "EndOffset": 93,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Collections.Generic.List`1<BLL.Student> BLL.StudentService::GetThirdYearFromUkraine()": {
+          "Lines": {
+            "107": 14
+          },
+          "Branches": [
+            {
+              "Line": 107,
+              "Offset": 7,
+              "EndOffset": 9,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 7
+            },
+            {
+              "Line": 107,
+              "Offset": 15,
+              "EndOffset": 17,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 6
+            },
+            {
+              "Line": 107,
+              "Offset": 7,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 107,
+              "Offset": 15,
+              "EndOffset": 30,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            }
+          ]
+        },
+        "System.Int32 BLL.StudentService::CountThirdYearFromUkraine()": {
+          "Lines": {
+            "109": 5
+          },
+          "Branches": []
+        },
+        "System.Void BLL.StudentService::Expel(System.String)": {
+          "Lines": {
+            "113": 4,
+            "114": 4,
+            "115": 4,
+            "117": 3,
+            "118": 1,
+            "119": 1,
+            "122": 2,
+            "123": 1,
+            "124": 1,
+            "127": 1,
+            "128": 1,
+            "129": 1
+          },
+          "Branches": [
+            {
+              "Line": 117,
+              "Offset": 29,
+              "EndOffset": 31,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 1
+            },
+            {
+              "Line": 117,
+              "Offset": 29,
+              "EndOffset": 59,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 122,
+              "Offset": 81,
+              "EndOffset": 83,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 122,
+              "Offset": 81,
+              "EndOffset": 111,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 1
+            }
+          ]
+        },
+        "System.String BLL.StudentService::PlayChess(System.String)": {
+          "Lines": {
+            "131": 2
+          },
+          "Branches": []
+        },
+        "BLL.Student BLL.StudentService::Find(System.Collections.Generic.List`1<BLL.Student>,System.String)": {
+          "Lines": {
+            "134": 10,
+            "135": 6
+          },
+          "Branches": [
+            {
+              "Line": 134,
+              "Offset": 32,
+              "EndOffset": 34,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 134,
+              "Offset": 32,
+              "EndOffset": 62,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 4
+            }
+          ]
+        },
+        "System.Boolean BLL.StudentService::IsUkraine(System.String)": {
+          "Lines": {
+            "138": 6,
+            "139": 6
+          },
+          "Branches": [
+            {
+              "Line": 138,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 3
+            },
+            {
+              "Line": 138,
+              "Offset": 12,
+              "EndOffset": 28,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Void BLL.StudentService::Validate(BLL.Student)": {
+          "Lines": {
+            "143": 11,
+            "144": 11,
+            "145": 11,
+            "146": 11,
+            "147": 11,
+            "148": 4,
+            "149": 4,
+            "152": 7,
+            "153": 2,
+            "154": 2,
+            "157": 5,
+            "158": 2,
+            "159": 2,
+            "161": 3
+          },
+          "Branches": [
+            {
+              "Line": 144,
+              "Offset": 12,
+              "EndOffset": 14,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 10
+            },
+            {
+              "Line": 144,
+              "Offset": 25,
+              "EndOffset": 27,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 9
+            },
+            {
+              "Line": 144,
+              "Offset": 38,
+              "EndOffset": 40,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 8
+            },
+            {
+              "Line": 144,
+              "Offset": 12,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 3
+            },
+            {
+              "Line": 144,
+              "Offset": 25,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 3
+            },
+            {
+              "Line": 144,
+              "Offset": 38,
+              "EndOffset": 53,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 3
+            },
+            {
+              "Line": 144,
+              "Offset": 56,
+              "EndOffset": 58,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 4
+            },
+            {
+              "Line": 144,
+              "Offset": 56,
+              "EndOffset": 70,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 7
+            },
+            {
+              "Line": 152,
+              "Offset": 77,
+              "EndOffset": 79,
+              "Path": 0,
+              "Ordinal": 8,
+              "Hits": 6
+            },
+            {
+              "Line": 152,
+              "Offset": 77,
+              "EndOffset": 90,
+              "Path": 1,
+              "Ordinal": 9,
+              "Hits": 1
+            },
+            {
+              "Line": 152,
+              "Offset": 93,
+              "EndOffset": 95,
+              "Path": 0,
+              "Ordinal": 10,
+              "Hits": 2
+            },
+            {
+              "Line": 152,
+              "Offset": 93,
+              "EndOffset": 107,
+              "Path": 1,
+              "Ordinal": 11,
+              "Hits": 5
+            },
+            {
+              "Line": 157,
+              "Offset": 122,
+              "EndOffset": 124,
+              "Path": 0,
+              "Ordinal": 12,
+              "Hits": 4
+            },
+            {
+              "Line": 157,
+              "Offset": 122,
+              "EndOffset": 143,
+              "Path": 1,
+              "Ordinal": 13,
+              "Hits": 1
+            },
+            {
+              "Line": 157,
+              "Offset": 146,
+              "EndOffset": 148,
+              "Path": 0,
+              "Ordinal": 14,
+              "Hits": 2
+            },
+            {
+              "Line": 157,
+              "Offset": 146,
+              "EndOffset": 160,
+              "Path": 1,
+              "Ordinal": 15,
+              "Hits": 3
+            }
+          ]
+        },
+        "System.Void BLL.StudentService::.ctor(DAL.IRepository`1<BLL.Student>)": {
+          "Lines": {
+            "84": 24,
+            "85": 24,
+            "86": 24,
+            "87": 24
+          },
+          "Branches": []
+        }
+      }
+    }
+  }
+}

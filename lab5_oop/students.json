@@ -1,0 +1,20 @@
+[
+  {
+    "Surname": "Семґ",
+    "Course": 2,
+    "StudentCard": "13213",
+    "AverageGrade": 88,
+    "Country": "Україна",
+    "RecordBook": "5690",
+    "IsExpelled": false
+  },
+  {
+    "Surname": "Костюк",
+    "Course": 2,
+    "StudentCard": "4568",
+    "AverageGrade": 99,
+    "Country": "Україна",
+    "RecordBook": "0001",
+    "IsExpelled": false
+  }
+]
